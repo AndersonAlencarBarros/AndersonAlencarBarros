@@ -10,6 +10,5 @@
 
 - 🔭 I’m currently working on a project to measure innovation degree in companies
 - 🌱 I’m currently learning unsupervised learning, K-means and fuzzy C-means
-- 💻 Javascript & ReactJs, Python & Django, SQL & PostgreSQL, Java & Spring.
+- 💻 Javascript & ReactJs, Python & Django, Java & Spring, SQL & PostgreSQL, MongoDB.
 - 📫 How to reach me: andersonalencarbarros@gmail.com
- 
