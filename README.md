@@ -1,6 +1,6 @@
 <h3 align="center">Hi 👋</h3>
 <p align="center">
-  <a href="https://portfolio-bf79f.web.app/">Portfólio</a> •
+  <a href="https://andersonalencarbarros.github.io/">Portfólio</a> •
   <a href="https://www.linkedin.com/in/alencarbarros/">LinkedIn</a> •
   <a href="https://www.instagram.com/alencarbarros_/">Instagram</a>
 </p>
