@@ -10,5 +10,5 @@
 
 - 🔭 I’m currently working as python backend developer
 - 🌱 I’m currently learning unsupervised learning, Fuzzy C-means
-- 💻 Javascript & ReactJs, Python & Django & FastAPI, SQL & PostgreSQL, MongoDB, Docker.
+- 💻 Javascript & ReactJs, Python & Django & FastAPI & Flask, SQL & PostgreSQL, MongoDB, Docker.
 - 📫 How to reach me: andersonalencarbarros@gmail.com
