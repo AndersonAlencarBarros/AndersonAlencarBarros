@@ -8,7 +8,6 @@
 ---
  ✨ I'm Computer Enginner student and Software Developer, now looking for new projects and challenges.
 
-- 🔭 I’m currently working as python backend developer
-- 🌱 I’m currently learning unsupervised learning, Fuzzy C-means
+- 🔭 I’m currently working as Python Backend Developer
 - 💻 Javascript & ReactJs, Python & Django & FastAPI & Flask, SQL & PostgreSQL, MongoDB, Docker.
 - 📫 How to reach me: andersonalencarbarros@gmail.com
