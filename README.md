@@ -6,7 +6,7 @@
 </p>
  
 ---
- ✨ I'm Computer Enginner student and Software Developer, now looking for new projects and challenges.
+ ✨ I'm Computer Enginner and Python BackEnd Developer.
 
 - 🔭 I’m currently working as Python Backend Developer
 - 💻 Javascript & ReactJs, Python & Django & FastAPI & Flask, SQL & PostgreSQL, MongoDB, Docker.
